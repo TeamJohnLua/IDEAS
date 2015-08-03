@@ -14,5 +14,8 @@ Greatest to Least: C B E A D
 ### Zerf's Preferences
 Greatest to Least: C E A D B
 
+### CrazyScouter's Preferences
+Greatest to Least: C E A D B
+
 ### Author's Preferences
 Greatest to Least: E D C B A
