@@ -10,5 +10,4 @@
 - (F) RTS? An RTS would be cool, but doing it in space could be a PITA.
 
 ### Parakeet's Preferences
-(Greatest to Least)
-C B E A D F
+Greatest to Least: C B E A D F
