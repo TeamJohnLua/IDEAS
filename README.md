@@ -11,3 +11,6 @@
 
 ### Parakeet's Preferences
 Greatest to Least: C B E A D F
+
+### Zerf's Preferences
+Greatest to Least: C E A D B F
